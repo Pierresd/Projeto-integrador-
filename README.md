@@ -39,14 +39,14 @@ O sistema contempla os seguintes cadastros:
 - **Cadastro de Aluno**  
 ![Cadastro Aluno](Prototipo_Senac/cadastro_aluno_pf.png)  
 
-- **Cadastro de Professor**  
-![Cadastro Professor](prototype/cadastro_professor.png)  
+- **Cadastro de Curso**  
+![Cadastro Curso](Prototipo_Senac/cadastro_curso.png)  
 
-- **Cadastro de Pessoa Jurídica**  
-![Cadastro PJ](prototype/cadastro_pj.png)  
+- **Cadastro de Contrato**  
+![Cadastro Contrato](Prototipo_Senac/cadastro_contrato.png)  
 
-- **Cadastro de Fornecedor**  
-![Cadastro Fornecedor](prototype/cadastro_fornecedor.png)  
+- **Cadastro Inicial**  
+![Cadastro Incial](Prototipo_Senac/tela_inicial_de_cadastro.png)  
 
 ---
 
