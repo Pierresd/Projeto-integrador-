@@ -48,8 +48,8 @@ O sistema contempla os seguintes cadastros:
 - **Cadastro Inicial**  
 ![Cadastro Incial](Prototipo_Senac/tela_inicial_de_cadastro.png)  
 
-- **Cadastro de Professor**
-![Cadastro Professor](Prototipo_Senac/cadastro_professor_pf.png)
+- **Cadastro de Professor**  
+![Cadastro Professor](Prototipo_Senac/cadastro_professor_pf.png)  
 
 - **Tela de Busca**  
 ![Atualizar Dados](Prototipo_Senac/tela_busca/atualizar_dados.png) 
