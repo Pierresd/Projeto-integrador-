@@ -34,7 +34,7 @@ O sistema contempla os seguintes cadastros:
 ![Tela Inicial](Prototipo_Senac/Tela_Inicial.png)  
 
 - **Tela Final**
- ![Tela Final](Prototipo_Senac/Tela_Final.png)  
+ ![Tela Final] (Prototipo_Senac/Tela Final.png)
 
 - **Cadastro de Aluno**  
 ![Cadastro Aluno](prototype/cadastro_aluno.png)  
