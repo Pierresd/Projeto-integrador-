@@ -33,11 +33,11 @@ O sistema contempla os seguintes cadastros:
 ### Tela Inicial
 ![Tela Inicial](Prototipo_Senac/tela_inicial.png)
 
-- **Tela Final**
- ![Tela Final] (Prototipo_Senac/Tela Final.png)
+### Tela Final
+![Tela Final](Prototipo_Senac/tela_final.png)
 
 - **Cadastro de Aluno**  
-![Cadastro Aluno](prototype/cadastro_aluno.png)  
+![Cadastro Aluno](Prototipo_Senac/cadastro_aluno_pf.png)  
 
 - **Cadastro de Professor**  
 ![Cadastro Professor](prototype/cadastro_professor.png)  
