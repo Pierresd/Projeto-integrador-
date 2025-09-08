@@ -53,11 +53,11 @@ O sistema contempla os seguintes cadastros:
 - **Cadastro de Aluno**  
 ![Cadastro Aluno](Prototipo_Senac/tela_cadastro_aluno.png) 
 
-- **Tela de Busca**  
-![Atualizar Dados](Prototipo_Senac/tela_busca/atualizar_dados.png) 
+- **Tela de Cadastro PJ**  
+![Cadastro PJ](Prototipo_Senac/tela_cadastro_pj.png) 
 
-- **Tela de Busca**  
-![Atualizar Dados](Prototipo_Senac/tela_busca/atualizar_dados.png) 
+- **Tela de Cadastro Professor**  
+![Cadastro Professor](Prototipo_Senac/tela_cadastro_professor.png) 
 
 - **Tela de Busca**  
 ![Atualizar Dados](Prototipo_Senac/tela_busca/atualizar_dados.png) 
