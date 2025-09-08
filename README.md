@@ -19,10 +19,10 @@ Nesta 2ª entrega, apresentamos os **protótipos funcionais** desenvolvidos no F
 O sistema contempla os seguintes cadastros:
 
 - Pessoa Física (PF)  
+- Pessoa Jurídica (PJ)  
 - Professores  
 - Alunos  
 - Fornecedores  
-
 
 ---
 
