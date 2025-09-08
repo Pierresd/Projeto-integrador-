@@ -31,7 +31,7 @@ O sistema contempla os seguintes cadastros:
 
 ### Exemplos
 ### Tela Inicial
-![Tela Inicial](prototipo_senac/tela_inicial.png)
+![Tela Inicial](Prototipo_Senac/tela_inicial.png)
 
 - **Tela Final**
  ![Tela Final] (Prototipo_Senac/Tela Final.png)
