@@ -49,7 +49,7 @@ O sistema contempla os seguintes cadastros:
 ![Cadastro Incial](Prototipo_Senac/tela_inicial_de_cadastro.png)  
 
 - **Cadastro De Professor**
-[Cadastro Professor](Prototipo_Senac/cadastro_professor_pf.png)
+![Cadastro Professor](Prototipo_Senac/cadastro_professor_pf.png)
 ---
 
 ## Estrutura do Repositório
