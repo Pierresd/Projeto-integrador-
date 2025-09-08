@@ -29,10 +29,10 @@ O sistema contempla os seguintes cadastros:
 ## Protótipo de Telas
 
 ### Exemplos
-**Tela Inicial**
+### Tela Inicial
 ![Tela Inicial](Prototipo_Senac/tela_inicial.png)
 
-**Tela Final**
+### Tela Final
 ![Tela Final](Prototipo_Senac/tela_final.png)
 
 - **Cadastro de Aluno**  
