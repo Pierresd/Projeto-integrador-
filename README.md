@@ -53,7 +53,6 @@ O protótipo funcional será desenvolvido utilizando uma ferramenta de prototipa
 3.2.	Experimento de Usabilidade
 O experimento de usabilidade envolverá testes com usuários reais para avaliar a facilidade de uso e a eficiência da interface. Serão coletados feedbacks para melhorias contínuas.
 
-
 ---
 
 ##  4. Diagrama de Classes
